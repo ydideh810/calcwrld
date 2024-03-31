@@ -14,7 +14,7 @@
 .calinput {
     width: 100%;
     background-color: var(--bl);
-    color: whitesmoke;
+    color: #eaeaea;
     outline: none;
     padding-right: 10px;
     overflow-wrap: break-word;
@@ -28,7 +28,7 @@
 
 .calsol {
     background-color: var(--bl);
-    color: whitesmoke;
+    color: #64d7ff;
     outline: none;
     border: none;
     width: 100%;
@@ -92,7 +92,7 @@
 }
 
 .topbar {
-    color: whitesmoke;
+    color: #64d7ff;
     width: 100%;
     font-size: 1.2rem;
     padding-right: 1rem;
