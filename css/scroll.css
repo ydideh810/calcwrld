@@ -11,13 +11,13 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: pink;
+    background: red;
     border-radius: 0.625rem;
 }
 
 ::-webkit-scrollbar-button:single-button {
     display: block;
-    background-color: pink;
+    background-color: red;
     height: 1.25rem;
 }
 
@@ -59,7 +59,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: pink;
+    background: red;
     ;
 }
 
